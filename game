@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,web3modal.org
+DOMAIN-SUFFIX,ahrefs.com
+DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,msu.io
 DOMAIN-SUFFIX,segment.io
 IP-CIDR,145.239.161.30/32,no-resolve
