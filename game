@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,blizzard-api.arkoselabs.com
 DOMAIN-SUFFIX,logon.warmane.com
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,msu.io
 IP-CIDR,145.239.161.30/32,no-resolve
