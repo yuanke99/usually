@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
 # iptv
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,hmrvideo.com
 DOMAIN-SUFFIX,kj9am92iw8ch.com
 DOMAIN-SUFFIX,newbee.pp.ua
