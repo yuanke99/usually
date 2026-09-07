@@ -1,8 +1,8 @@
   # 华为云新加坡
-  - IP-CIDR,188.239.22.223/32,no-resolve
+  - IP-CIDR,188.239.22.223/32
   # 华为云香港
-  - IP-CIDR,150.40.179.83/32,no-resolve
+  - IP-CIDR,150.40.179.83/32
   # Yuuesei V6
-  - IP-CIDR6,2a14:67c4::/32,no-resolve
+  - IP-CIDR6,2a14:67c4::/32
   # Yuuesei V4
-  - IP-CIDR,2.26.200.0/21,no-resolve
+  - IP-CIDR,2.26.200.0/21
